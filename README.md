@@ -20,6 +20,7 @@ The portfolio showcases my skills, projects, and contact information in a clean 
 - CSS
 - JavaScript
 - PHP
+- sql (database)
 
 ## 💻 Development Tools
 - Visual Studio Code
@@ -29,11 +30,14 @@ The portfolio showcases my skills, projects, and contact information in a clean 
 
 1. Install XAMPP
 2. Move project folder to:  C:\xampp\htdocs\
+3.  Start Apache an sql server from XAMPP
+4.  Create the database:
+   - Open http://localhost/phpmyadmin
+      in browser
+   - Click *Import* → choose file db.sql → click Go
+5. Open browser and go to:  http://localhost/your-folder-name (portfolio)/
 
-3. Start Apache server from XAMPP
-4. Open browser and go to:  http://localhost/your-folder-name/
-
-5. 
+6. 
 ## 📸 Project Demo
 Check the LinkedIn post for video explanation and demo.
 
